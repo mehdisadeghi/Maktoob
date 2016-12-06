@@ -5,7 +5,7 @@ Maktoob is a simple Chrome extension to make pages readable. Click on Maktoob's 
 
 Installation
 ------------
-Download the [zip file](https://github.com/mehdisadeghi/maktoob/maktoob.zip) first. Then go to Chrome extensions page, check the "Developer mode" checkbox, then click "Load unpacked extension" button and choose the extracted folder.
+Download the [zip file](https://github.com/mehdisadeghi/Maktoob/releases) first. Then go to Chrome extensions page, check the "Developer mode" checkbox, then click "Load unpacked extension" button and choose the extracted folder.
 
 Credit
 ------
